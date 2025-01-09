@@ -4,6 +4,6 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Hey, did this change?");
+        Console.WriteLine("change stoopid");
     }
 }
