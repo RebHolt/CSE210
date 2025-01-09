@@ -4,6 +4,6 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Hello World! Hope this works :)");
+        Console.WriteLine("Hello Sanbox World!!");
     }
 }
